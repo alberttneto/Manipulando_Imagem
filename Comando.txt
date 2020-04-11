@@ -1,0 +1,19 @@
+
+
+* opentxt:
+imm.exe -opentxt C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\GIMP.txt
+
+* openim:
+imm.exe -openim C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\GIMP.im
+
+* convert
+imm.exe -convert C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\GIMP.txt C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\convert.im	
+
+* segment
+imm.exe -segment 250 C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\segfile.im C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\segmentout.im
+
+* conexos
+imm.exe -cc C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\ccin.im C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\ccout.im
+
+* labirinto
+imm.exe -lab C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\labin.txt C:\Users\bf__\Documents\UFU\2019-2\AED-1\Trabalho_final\imm\labout.txt

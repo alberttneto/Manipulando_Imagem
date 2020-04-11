@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1574479806 source:c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD_IMG.h"
+	"TAD_List.h"
+
+1574119442 c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tmat2.h
+
+1574163391 source:c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tmat2.c
+	"TMAT2.h"
+	"TAD_List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1573938823 source:c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tad_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_Stack.h"
+
+1573936915 c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tad_stack.h
+
+1574205179 source:c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tad_list.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_List.h"
+
+1574165751 c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tad_list.h
+
+1574477995 source:c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tad_img.c
+	"TAD_IMG.h"
+	"TAD_List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574463228 c:\users\bf__\documents\ufu\2019-2\aed-1\trabalho_final\imm\tad_img.h
+
